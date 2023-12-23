@@ -1,4 +1,4 @@
-Tema name : 
+Tema name :  'Cybersquad' 
 Komal Kumari
 I'd - GWPBFS23110013
 
@@ -9,4 +9,4 @@ Lakshmi Kumari
 I'd - GWPBFS23110015
  
 Riya Kumari
-GWPBFS23110034
+I'D - GWPBFS23110034

@@ -1,4 +1,5 @@
-Tema name :  'Cybersquad' 
+Team name :  'Cybersquad' 
+
 Komal Kumari
 I'd - GWPBFS23110013
 

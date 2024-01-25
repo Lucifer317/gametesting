@@ -8,5 +8,5 @@ I'd - GWPBFS23110036
 Lakshmi Kumari
 I'd - GWPBFS23110015
  
-Riya Kumari
+Riya Singh 
 I'D - GWPBFS23110034
